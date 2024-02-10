@@ -31,6 +31,19 @@ This is a simple C program that calculates the Body Mass Index (BMI) based on th
 
 5. **Return**:
    - The program exits with a return value of 0, indicating successful execution.
+
+# Reference
+
+This program was developed based on the concepts learned in college. It applies fundamental principles of programming, including:
+
+- Input/output handling using `printf()` and `scanf()` functions for user interaction.
+- Variable declaration and initialization to store data.
+- Arithmetic operations for calculations, such as BMI calculation using the formula: BMI = weight / (height * height).
+- Conditional statements (`if-else`) to make decisions based on calculated values.
+- Compilation and execution of C programs using a C compiler, such as GCC.
+
+The development of this program was guided by the knowledge and skills acquired during the study of course(Logic building with c) in college.
+
      
 
 # License
