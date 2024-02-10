@@ -2,7 +2,13 @@
 
 This is a simple C program that calculates the Body Mass Index (BMI) based on the user's weight and height input.
 
-# How to Use
+# Prerequisite
+  - **C Compiler**: You need a C compiler installed on your system to compile and execute the program. One commonly used compiler is GCC (GNU Compiler Collection), which is available for various operating systems. If you don't have GCC installed, you can download it       from [gcc.gnu.org](https://gcc.gnu.org/).
+  - **Development Environment**: You can write and edit the program code using any text editor or integrated development environment (IDE) that supports C programming. Some popular options include Visual Studio Code, Atom, Sublime Text, and Eclipse CDT.
+  - **Basic Understanding of C Programming**: This program assumes basic knowledge of the C programming language. You should be familiar with concepts such as variables, data types, input/output, arithmetic operations, and conditional statements.
+  -  **Terminal or Command Prompt**: You'll need access to a terminal or command prompt to compile and execute the program. This is where you'll run commands to compile the source code and execute the compiled program.
+
+# Getting Stared
   - **Compile the Program**: Compile the program using a C compiler.
   - **Run the Program**: Execute the compiled program.
   - **Enter Your Information**: Follow the prompts to enter your weight in kilograms and your height in meters.
